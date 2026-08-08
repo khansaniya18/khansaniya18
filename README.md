@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Saniya 👋
 
-<!--
-**khansaniya18/khansaniya18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ✨ Interests
+- 💻 Web & Full-Stack Development
+- 🎨 UI/UX & Digital Art
+- 🧩 Problem Solving
+- 🌱 Learning New Technologies
+- 🚀 Building Personal Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 What I'm doing
+Currently learning and building projects in full-stack web development.
+I'm improving my skills in JavaScript, React.js, Node.js, and REST APIs.
+
+## 🛠️ Skills
+* **Programming:** C, C++, JavaScript
+* **Web Development:** HTML, CSS, Bootstrap, React.js, Node.js, Express.js
+* **Database:** MySQL
+* **Backend & APIs:** REST APIs.
+* **Tools:** Git, GitHub
+* **Other:** Data Structures & Algorithms, OOPS, DBMS.
+
+
+
+
